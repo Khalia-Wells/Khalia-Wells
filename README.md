@@ -9,3 +9,9 @@ Hi, I’m **Khalia** 💕
 🧠 I enjoy working on projects that blend **hardware and software**, especially those involving microcontrollers, sensors, and real-world applications.
 
 🎓 Pursuing a **Bachelor’s degree in Computer Engineering** at **SDSU**.
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Khalia-Wells/Khalia-Wells/main/Typing_GIF.gif" alt="Pusheen typing" width="200">
+</p>
+
